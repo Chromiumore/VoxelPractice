@@ -1,39 +1,46 @@
+#include <iostream>
+
 #include "glew.h"
 #include "glfw3.h"
-#include <iostream>
+
+#define GLEW_STATIC
+
+int WIDTH = 1280;
+int HEIGHT = 720;
 
 int main(void)
 {
-    GLFWwindow* window;
+    glfwInit();
 
-    /* Initialize the library */
-    if (!glfwInit())
-        return -1;
+    glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
+    glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
+    glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
+    glfwWindowHint(GLFW_RESIZABLE, GL_FALSE);
 
-    /* Create a windowed mode window and its OpenGL context */
-    window = glfwCreateWindow(640, 480, "Hello World", NULL, NULL);
-    if (!window)
-    {
+    GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "voxels", nullptr, nullptr);
+
+    if (window == nullptr) {
+        std::cerr << "Failed to create window\n";
         glfwTerminate();
         return -1;
     }
 
-    /* Make the window's context current */
     glfwMakeContextCurrent(window);
 
-    /* Loop until the user closes the window */
-    while (!glfwWindowShouldClose(window))
-    {
-        /* Render here */
-        glClear(GL_COLOR_BUFFER_BIT);
+    glewExperimental = GL_TRUE;
+    if (glewInit() != GLEW_OK) {
+        std::cerr << "Failed to initialize GLEW\n";
+        return -1;
+    }
 
-        /* Swap front and back buffers */
-        glfwSwapBuffers(window);
+    glViewport(0, 0, WIDTH, HEIGHT);
 
-        /* Poll for and process events */
+    while (!glfwWindowShouldClose(window)) {
         glfwPollEvents();
+        glfwSwapBuffers(window);
     }
 
     glfwTerminate();
+
     return 0;
 }

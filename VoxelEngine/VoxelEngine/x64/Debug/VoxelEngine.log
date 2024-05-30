@@ -1,1 +1,6 @@
-﻿  VoxelEngine.vcxproj -> C:\Programming\c++\VoxelEngine\VoxelEngine\x64\Debug\VoxelEngine.exe
+﻿  main.cpp
+C:\Programming\c++\VoxelEngine\VoxelEngine\main.cpp(6,1): warning C4005: GLEW_STATIC: изменение макроопределения
+  C:\Programming\c++\VoxelEngine\VoxelEngine\main.cpp(6,1):
+  "GLEW_STATIC" ранее объявлен в командной строке
+  
+  VoxelEngine.vcxproj -> C:\Programming\c++\VoxelEngine\VoxelEngine\x64\Debug\VoxelEngine.exe
