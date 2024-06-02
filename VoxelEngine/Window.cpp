@@ -31,6 +31,8 @@ int Window::init(int width, int height, const char* title) {
     }
 
     glViewport(0, 0, width, height);
+
+    return 0;
 }
 
 void Window::terminate() {

@@ -1,6 +1,7 @@
 #include <iostream>
 
 #include "Window.h"
+#include "Events.h"
 #include "glew.h"
 #include "glfw3.h"
 
@@ -14,8 +15,8 @@ int main(void)
 {
     Window::init(WIDTH, HEIGHT, TITLE);
 
-    while (!Window::isShouldClose()) {
-        glfwPollEvents();
+    while (!Window::isShouldClose()) {  
+        Events::pullEvents();
         Window::swap();
     }
 
