@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAASAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-30T12:57:38.85Z",
               "IsPinned": true,
@@ -52,8 +52,7 @@
               "RelativeToolTip": "Shader.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-02T12:03:12.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T12:03:12.216Z"
             },
             {
               "$type": "Document",
@@ -65,8 +64,7 @@
               "RelativeToolTip": "Shader.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-02T12:03:30.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T12:03:30.488Z"
             },
             {
               "$type": "Document",
@@ -78,8 +76,7 @@
               "RelativeToolTip": "Window.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-02T10:48:27.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T10:48:27.789Z"
             }
           ]
         },
