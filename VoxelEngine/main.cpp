@@ -1,9 +1,11 @@
 #include <iostream>
 
+#include <glew.h>
+#include <glfw3.h>
+
+#include "Shader.h"
 #include "Window.h"
 #include "Events.h"
-#include "glew.h"
-#include "glfw3.h"
 
 #define GLEW_STATIC
 
@@ -17,6 +19,14 @@ int main()
     Events::init();
 
     glClearColor(0, 0, 0, 1);
+
+    Shader* shader = load_shader("main.glslv", "main.glslf");
+    if (shader == nullptr) {
+        std::cerr << "Unable to load shader\n";
+        Window::terminate();
+        return -1;
+    }
+
     while (!Window::isShouldClose()) {  
         Events::pullEvents();
         if (Events::isJustPressed(GLFW_KEY_ESCAPE))
