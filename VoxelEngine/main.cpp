@@ -3,6 +3,8 @@
 #include <glew.h>
 #include <glfw3.h>
 
+#include <png.h>
+
 #include "Shader.h"
 #include "Window.h"
 #include "Events.h"
