@@ -1,14 +1,14 @@
-﻿  Events.cpp
+﻿  main.cpp
 C:\Programming\c++\VoxelEngine\VoxelEngine\includes\GLFW\glfw3.h(1403,16): warning C4099: GLFWwindow: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
-  (компиляция исходного файла "Events.cpp")
+  (компиляция исходного файла "main.cpp")
   C:\Programming\c++\VoxelEngine\VoxelEngine\Window.h(3,7):
    см. объявление "GLFWwindow"
   
-C:\Programming\c++\VoxelEngine\VoxelEngine\Events.cpp(42,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Programming\c++\VoxelEngine\VoxelEngine\Events.cpp(43,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Programming\c++\VoxelEngine\VoxelEngine\Events.cpp(48,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Programming\c++\VoxelEngine\VoxelEngine\Events.cpp(49,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-glew32s.lib(glew.obj) : warning LNK4099: "" PDB не найден с "glew32s.lib(glew.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
-LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
-LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+C:\Programming\c++\VoxelEngine\VoxelEngine\main.cpp(8,1): warning C4005: GLEW_STATIC: изменение макроопределения
+  C:\Programming\c++\VoxelEngine\VoxelEngine\main.cpp(8,1):
+  "GLEW_STATIC" ранее объявлен в командной строке
+  
+C:\Programming\c++\VoxelEngine\VoxelEngine\main.cpp(25,95): warning C4244: аргумент: преобразование "double" в "GLclampf", возможна потеря данных
+C:\Programming\c++\VoxelEngine\VoxelEngine\main.cpp(25,68): warning C4244: аргумент: преобразование "double" в "GLclampf", возможна потеря данных
+C:\Programming\c++\VoxelEngine\VoxelEngine\main.cpp(25,41): warning C4244: аргумент: преобразование "double" в "GLclampf", возможна потеря данных
   VoxelEngine.vcxproj -> C:\Programming\c++\VoxelEngine\VoxelEngine\x64\Debug\VoxelEngine.exe

@@ -11,6 +11,7 @@ public:
 	static void terminate();
 
 	static bool isShouldClose();
+	static void setShouldClose(bool flag);
 	static void swap();
 };
 

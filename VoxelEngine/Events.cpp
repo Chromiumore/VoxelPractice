@@ -5,7 +5,7 @@
 
 bool* Events::keys;
 unsigned int* Events::frames;
-unsigned int Events::current;
+unsigned int Events::current = 0;
 bool Events::cursor_locked = false;
 bool Events::cursor_started = false;
 float Events::deltaX = 0.0f;
@@ -26,7 +26,7 @@ void key_callback(GLFWwindow* window, int key, int code, int action, int mode) {
 	}
 }
 
-void mouse_callback(GLFWwindow* window, int key, int code, int action, int mode) {
+void mouse_callback(GLFWwindow* window, int key, int action, int mode) {
 	if (action == GLFW_PRESS) {
 		Events::keys[KEYS + key] = true;
 		Events::frames[KEYS + key] = Events::current;
@@ -58,12 +58,29 @@ int Events::init() {
 	memset(frames, 0, 1032 * sizeof(unsigned int));
 
 	glfwSetKeyCallback(window, key_callback);
-	glfwSetKeyCallback(window, mouse_callback);
+	glfwSetMouseButtonCallback(window, mouse_callback);
 	glfwSetCursorPosCallback(window, cursor_pos_callback);
 
 	return 0;
 }
 
 void Events::pullEvents() {
+	current++;
 	glfwPollEvents();
+}
+
+bool Events::isPressed(int key) {
+	return keys[key];
+}
+
+bool Events::isJustPressed(int key) {
+	return keys[key] && frames[key] == current;
+}
+
+bool Events::isClicked(int button) {
+	return keys[KEYS + button];
+}
+
+bool Events::isJustClicked(int button) {
+	return keys[KEYS+button] && frames[KEYS + button] == current;
 }
