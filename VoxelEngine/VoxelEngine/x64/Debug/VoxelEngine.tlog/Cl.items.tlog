@@ -1,4 +1,11 @@
+C:\Programming\c++\VoxelEngine\VoxelEngine\Camera.cpp;C:\Programming\c++\VoxelEngine\VoxelEngine\VoxelEngine\x64\Debug\Camera.obj
+C:\Programming\c++\VoxelEngine\VoxelEngine\Chunk.cpp;C:\Programming\c++\VoxelEngine\VoxelEngine\VoxelEngine\x64\Debug\Chunk.obj
 C:\Programming\c++\VoxelEngine\VoxelEngine\Events.cpp;C:\Programming\c++\VoxelEngine\VoxelEngine\VoxelEngine\x64\Debug\Events.obj
 C:\Programming\c++\VoxelEngine\VoxelEngine\main.cpp;C:\Programming\c++\VoxelEngine\VoxelEngine\VoxelEngine\x64\Debug\main.obj
+C:\Programming\c++\VoxelEngine\VoxelEngine\Mesh.cpp;C:\Programming\c++\VoxelEngine\VoxelEngine\VoxelEngine\x64\Debug\Mesh.obj
+C:\Programming\c++\VoxelEngine\VoxelEngine\png_loading.cpp;C:\Programming\c++\VoxelEngine\VoxelEngine\VoxelEngine\x64\Debug\png_loading.obj
 C:\Programming\c++\VoxelEngine\VoxelEngine\Shader.cpp;C:\Programming\c++\VoxelEngine\VoxelEngine\VoxelEngine\x64\Debug\Shader.obj
+C:\Programming\c++\VoxelEngine\VoxelEngine\Texture.cpp;C:\Programming\c++\VoxelEngine\VoxelEngine\VoxelEngine\x64\Debug\Texture.obj
+C:\Programming\c++\VoxelEngine\VoxelEngine\voxel.cpp;C:\Programming\c++\VoxelEngine\VoxelEngine\VoxelEngine\x64\Debug\voxel.obj
+C:\Programming\c++\VoxelEngine\VoxelEngine\VoxelRenderer.cpp;C:\Programming\c++\VoxelEngine\VoxelEngine\VoxelEngine\x64\Debug\VoxelRenderer.obj
 C:\Programming\c++\VoxelEngine\VoxelEngine\Window.cpp;C:\Programming\c++\VoxelEngine\VoxelEngine\VoxelEngine\x64\Debug\Window.obj

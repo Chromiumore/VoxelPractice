@@ -19,6 +19,7 @@ public:
 	static bool isJustPressed(int key);
 	static bool isClicked(int button);
 	static bool isJustClicked(int button);
+	static void toggleCursor();
 
 	static int init();
 	static void pullEvents();

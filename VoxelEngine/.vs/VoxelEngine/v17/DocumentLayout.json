@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\VoxelRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|solutionrelative:VoxelRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\VoxelRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|solutionrelative:VoxelRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\voxel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|solutionrelative:voxel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\voxel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|solutionrelative:voxel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Chunk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|solutionrelative:Chunk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Events.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|solutionrelative:Events.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Events.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|solutionrelative:Events.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|solutionrelative:Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|solutionrelative:Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|solutionrelative:Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Chunk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5235AC0-86BF-4183-B882-9AD7FB2B92D2}|VoxelEngine.vcxproj|solutionrelative:Chunk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,81 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 453,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAIAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-30T12:57:38.85Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoxelRenderer.h",
+              "DocumentMoniker": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\VoxelRenderer.h",
+              "RelativeDocumentMoniker": "VoxelRenderer.h",
+              "ToolTip": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\VoxelRenderer.h",
+              "RelativeToolTip": "VoxelRenderer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T03:48:10.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Events.cpp",
-              "DocumentMoniker": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Events.cpp",
-              "RelativeDocumentMoniker": "Events.cpp",
-              "ToolTip": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Events.cpp",
-              "RelativeToolTip": "Events.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAACAAAA",
+              "Title": "VoxelRenderer.cpp",
+              "DocumentMoniker": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\VoxelRenderer.cpp",
+              "RelativeDocumentMoniker": "VoxelRenderer.cpp",
+              "ToolTip": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\VoxelRenderer.cpp",
+              "RelativeToolTip": "VoxelRenderer.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADIAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-02T16:44:45.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Events.h",
-              "DocumentMoniker": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Events.h",
-              "RelativeDocumentMoniker": "Events.h",
-              "ToolTip": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Events.h",
-              "RelativeToolTip": "Events.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-02T16:44:41.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Shader.h",
-              "DocumentMoniker": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Shader.h",
-              "RelativeDocumentMoniker": "Shader.h",
-              "ToolTip": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Shader.h",
-              "RelativeToolTip": "Shader.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-02T12:03:12.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Shader.cpp",
-              "DocumentMoniker": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Shader.cpp",
-              "RelativeDocumentMoniker": "Shader.cpp",
-              "ToolTip": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Shader.cpp",
-              "RelativeToolTip": "Shader.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-02T12:03:30.488Z"
+              "WhenOpened": "2024-06-03T03:51:24.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Window.h",
-              "DocumentMoniker": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Window.h",
-              "RelativeDocumentMoniker": "Window.h",
-              "ToolTip": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Window.h",
-              "RelativeToolTip": "Window.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Title": "Chunk.h",
+              "DocumentMoniker": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Chunk.h",
+              "RelativeDocumentMoniker": "Chunk.h",
+              "ToolTip": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Chunk.h",
+              "RelativeToolTip": "Chunk.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-02T10:48:27.789Z"
+              "WhenOpened": "2024-06-03T03:34:33.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chunk.cpp",
+              "DocumentMoniker": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Chunk.cpp",
+              "RelativeDocumentMoniker": "Chunk.cpp",
+              "ToolTip": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\Chunk.cpp",
+              "RelativeToolTip": "Chunk.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T03:34:40.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "voxel.cpp",
+              "DocumentMoniker": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\voxel.cpp",
+              "RelativeDocumentMoniker": "voxel.cpp",
+              "ToolTip": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\voxel.cpp",
+              "RelativeToolTip": "voxel.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T03:33:56.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "voxel.h",
+              "DocumentMoniker": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\voxel.h",
+              "RelativeDocumentMoniker": "voxel.h",
+              "ToolTip": "C:\\Programming\\c\u002B\u002B\\VoxelEngine\\VoxelEngine\\voxel.h",
+              "RelativeToolTip": "voxel.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T03:31:53.147Z",
+              "EditorCaption": ""
             }
           ]
         },
